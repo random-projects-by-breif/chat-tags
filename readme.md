@@ -1,4 +1,4 @@
-# 💬 Chat Tag Executor Loadstrings
+# 💬 Executor tags
 
 this contains multiple executors chat tags for those executors the loadsrings are below
 
