@@ -1,5 +1,5 @@
 GITHUB_USERNAME="thebiraf"
-REPO_NAME="better-than-CompKiller"
+REPO_NAME=""
 REPO_URL="https://github.com/${GITHUB_USERNAME}/${REPO_NAME}.git"
 COMMIT_MESSAGE="Push from codespace: $(date '+%Y-%m-%d %H:%M:%S')"
 BRANCH_NAME="main"
