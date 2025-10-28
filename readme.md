@@ -1,21 +1,20 @@
 # 💬 Chat Tag Executor Loadstrings
 
-This repository contains a collection of **Lua loadstrings** for various chat tag executors, categorized into paid and free options.
+this contains multiple executors chat tags for those executors the loadsrings are below
 
 ---
 
 ## ⚠️ Important Note
 
-**The code below is provided for reference only and is completely commented out to prevent accidental execution.**
-This file cannot be executed directly. The strings are included here as a quick reference for users who may wish to manually execute them in a compatible environment.
+if i missed any executors feel free to dm me my discord is admin007852 and i will be sure to udaet it
 
 ---
 
 ## 💎 Paid Executors
 
-These loadstrings are intended for use with executors that require a paid subscription or license.
+These loadstrings are intended for use with the valid executor try noot to run the wrong one as it would give u a invalid tag
 
-| Executor Name | Loadstring (Commented Out) |
+| Executor Name | Loadstrings) |
 | :--- | :--- |
 | **Pottasium** | `-- pottasium = loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/pottasium.luau"))()` |
 | **awp.gg** | `-- awp.gg = loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/awp.gg.luau"))()` |
@@ -27,9 +26,9 @@ These loadstrings are intended for use with executors that require a paid subscr
 
 ## ✨ Free Executors
 
-These loadstrings are intended for use with publicly available and free executors.
+These loadstrings are intended for use with the valid executor dont use wrong one as it would give u a invalid tag.
 
-| Executor Name | Loadstring (Commented Out) |
+| Executor Name | Loadstrings|
 | :--- | :--- |
 | **Xeno** | `-- xeno = loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/free%20executors/xeno.luau"))()` |
 | **Solara** | `-- solara = loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/free%20executors/solara.luau"))()` |
