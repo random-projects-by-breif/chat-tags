@@ -17,7 +17,7 @@ These loadstrings are intended for use with the valid executor try noot to run t
 | Executor Name | Loadstrings) |
 | :--- | :--- |
 | **Pottasium** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/pottasium.luau"))()` |
-| **awp.gg** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/awp.gg.luau"))()` |
+| **volt** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/volt.gg.luau"))()` |
 | **Volcano Paid** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/volcano%20paid.luau"))()` |
 | **Wave** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/wave.luau"))()` |
 | **Zenith** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/zenith.luau"))()` |
