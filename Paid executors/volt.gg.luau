@@ -2,7 +2,7 @@ local TextChatService = game:GetService("TextChatService")
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer 
 local r, g, b = 150, 0, 255 
-local ChatTagText = "[Awp.gg user]" 
+local ChatTagText = "[volt.gg user]" 
 TextChatService.OnIncomingMessage = function(message: TextChatMessage)
     if message.TextSource then
         if message.TextSource.UserId == LocalPlayer.UserId then
