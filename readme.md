@@ -9,7 +9,7 @@ this contains multiple executors chat tags for those executors the loadsrings ar
 if i missed any executors feel free to dm me my discord is admin007852 and i will be sure to udaet it
 
 ---
-
+pc executors
 ## 💎 Paid Executors
 
 These loadstrings are intended for use with the valid executor try noot to run the wrong one as it would give u a invalid tag
@@ -35,3 +35,9 @@ These loadstrings are intended for use with the valid executor dont use wrong on
 | **Velocity** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/free%20executors/velocity.luau"))()` |
 | **Volcano Free** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/free%20executors/volcano%20free%20.luau"))()` |
 | **bunni.lol** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/free%20executors/bunni.lol.luau"))()` |
+
+mobile executors
+free:
+| Executor Name | Loadstrings|
+| :--- | :--- |
+| **Delta** | `https://raw.githubusercontent.com/random-projects-by-breif/chat-tags/refs/heads/main/Paid%20executors/delta.lua"))()` |
